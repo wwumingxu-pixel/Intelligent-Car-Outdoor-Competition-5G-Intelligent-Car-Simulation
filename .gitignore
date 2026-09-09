@@ -1,0 +1,37 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# IDE and generated solution files
+.vs/
+.idea/
+*.csproj
+*.sln
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# Unity crash reports and generated recordings
+sysinfo.txt
+*.stacktrace
+Recordings/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Unity Version Control / Plastic local data
+.plastic/
+
+# Local build outputs and screenshots
+Builds/
+Build/
+Assets/Screenshots/
