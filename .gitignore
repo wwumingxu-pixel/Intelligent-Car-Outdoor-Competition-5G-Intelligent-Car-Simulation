@@ -10,6 +10,7 @@
 # IDE and generated solution files
 .vs/
 .idea/
+.vscode/
 *.csproj
 *.sln
 *.user
